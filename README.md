@@ -68,7 +68,7 @@ O objetivo desse repositório é para organizar meus estudos em Java. Ele conté
 - Tratamento de exceções
 
   
-  ### Mapas mentais
+  ### Mapas Mentais
 
   - Sou uma pessoa muito visual e acho que os mapas mentais são uma ótima maneira de aprender. Eles me ajudam a visualizar as informações e a entender as relações entre elas. Eu uso mapas mentais para estudar para provas, aprender novos conceitos e até mesmo para planejar projetos.
 
@@ -87,6 +87,9 @@ Aqui estão algumas dicas para criar mapas mentais eficazes:
 - Use imagens e cores para tornar o mapa mental mais visual.
 - Não tenha medo de ser criativo.
 - Revise o mapa mental regularmente para manter as informações atualizadas.
+
+  
+![Mapa Mental com brainstorm escrito a mão colorido](https://github.com/Gabrielasants7/Java/assets/89526250/e1f13c4f-de5e-42fe-ae0d-24d5db9d5f59)
 
 
   
