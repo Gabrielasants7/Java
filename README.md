@@ -89,7 +89,7 @@ Aqui estão algumas dicas para criar mapas mentais eficazes:
 - Revise o mapa mental regularmente para manter as informações atualizadas.
 
   
-![Mapa Mental com brainstorm escrito a mão colorido](https://github.com/Gabrielasants7/Java/assets/89526250/e1f13c4f-de5e-42fe-ae0d-24d5db9d5f59)
+![Mapa Mental com brainstorm escrito a mão colorido](https://github.com/Gabrielasants7/Java/assets/89526250/1a8269a7-c808-4a22-83b7-d1604aa7e115)
 
 
   
