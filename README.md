@@ -99,6 +99,10 @@ Aqui estão algumas dicas para criar mapas mentais eficazes:
 ![Mapa Mental com brainstorm escrito a mão colorido (1)](https://github.com/Gabrielasants7/Java/assets/89526250/3cc159d6-da63-48e1-87b5-b00729762f80)
 
 
+![Mapa Mental com brainstorm escrito a mão colorido (2)](https://github.com/Gabrielasants7/Java/assets/89526250/73690172-273a-4686-be08-69636ea61726)
+
+
+
   
   ### Projetos
 
